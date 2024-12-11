@@ -25,3 +25,17 @@
 
 3 directories, 6 files
 ```
+
+## How to Build
+
+```sh
+docker-compose build
+docker-compose up -d
+```
+
+## How to Start
+
+```sh
+❯ curl http://localhost:8080/
+Hello from Flask!%
+```

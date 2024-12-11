@@ -1,5 +1,5 @@
 # 使用官方的 Python 映像作為基礎
-FROM --platform=linux/amd64 python:3.10-slim
+FROM python:3.10-slim
 
 # 設置工作目錄
 WORKDIR /app
