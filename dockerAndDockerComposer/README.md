@@ -1,5 +1,7 @@
 # docker跟docker-compose的差別
 
+[主要文章]([url](https://medium.com/@chaiyomin/docker%E8%B7%9Fdocker-compose%E7%9A%84%E5%B7%AE%E5%88%A5-842958041349))
+
 ## 概要
 
 文章中比較了docker跟docker-compose的差別，並要在這個repository中示範用`DOCKER FILE`製作一個image並用`docker-compose.yaml`來組建一個service。
